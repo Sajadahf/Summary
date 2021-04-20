@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajadahf
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming , Reading Book , Traveling
 - 🌱 I’m currently learning STM32, Altium, ENGLISH
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on STM32 Project , Altium Project
 - 📫 How to reach me with commend for Project
 
 <!---
