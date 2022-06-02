@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajadahf
 - 👀 I’m interested in Programming , Reading Book , Traveling
-- 🌱 I’m currently learning STM32, Altium, ENGLISH
+- 🌱 I’m currently learning STM32, Altium, Machine Learning, Python, Data Analysis, IoT, AI, ENGLISH
 - 💞️ I’m looking to collaborate on STM32 Project , Altium Project
 - 📫 How to reach me with commend for Project
 
